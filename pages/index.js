@@ -19,7 +19,6 @@ export default function Home() {
     'omariosouto',
     'peas',
     'gustavoguanabara',
-    'marcobrunodev',
     'flaviohenriquealmeida'
   ]
 
