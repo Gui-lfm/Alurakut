@@ -19,5 +19,6 @@ const MainGrid = styled.main`
       "profileArea welcomeArea profileRelationsArea";
     grid-template-columns: 160px 1fr 312px;
   }
+  opacity: 0.9
 `;
 export default MainGrid;

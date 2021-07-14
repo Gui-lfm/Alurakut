@@ -2,6 +2,7 @@ import React from 'react';
 import styled, { css } from 'styled-components';
 import NextLink from 'next/link';
 
+
 const BASE_URL = 'http://alurakut.vercel.app/';
 const v = '1';
 
@@ -33,13 +34,13 @@ export function AlurakutMenu({ githubUser }) {
             </Link>
           ))}
         </nav>
-
+       
         <nav>
           <a href={`/logout`}>
             Sair
           </a>
           <div>
-            <input placeholder="Pesquisar no Orkut" />
+            <input placeholder="Pesquisar no Alurakut" />
           </div>
         </nav>
 

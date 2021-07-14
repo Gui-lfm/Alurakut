@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
 
 body {
     font-family: sans-serif;
-    background-color: #D9E6F6
+    background: url("https://free4kwallpapers.com/uploads/originals/2019/06/18/the-legend-of-zelda-high-quality-k-pc--wallpaper.jpg") no-repeat fixed center;
   }
 
   #__next {
