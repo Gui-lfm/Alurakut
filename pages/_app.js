@@ -1,4 +1,5 @@
 import { createGlobalStyle, ThemeProvider } from 'styled-components'
+import { AlurakutStyles } from '../src/lib/AlurakutCommons'
 
 const GlobalStyle = createGlobalStyle`
   *{
@@ -23,6 +24,8 @@ body {
     height: auto;
     display: block;
   }
+
+  ${AlurakutStyles}
 `
 
 
